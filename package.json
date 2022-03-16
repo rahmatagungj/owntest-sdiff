@@ -13,9 +13,6 @@
     "type": "git",
     "url": "git+https://github.com/rahmatagungj/owntest-diff.git"
   },
-  "publishConfig": {
-    "registry":"https://npm.pkg.github.com"
-  },
   "author": "Rahmat Agung Julians",
   "license": "ISC"
 }
